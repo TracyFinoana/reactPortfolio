@@ -57,7 +57,7 @@ exit={{opacity:0}}
 
                       <div>
                         <p>
-                    Un grand gamin rigoleur, mais qui prend toujours ces responsabilités au sérieux,
+                    Un grand gamin rigoleur, mais qui prend toujours ses responsabilités au sérieux,
                     aime l'aventure et explorer de nouvelles choses, avec une soif d'évolution. </p>
                       </div>
                     </div>
