@@ -289,6 +289,7 @@ function App() {
                               <button
                                 style={{ color: "#fd4520" }}
                                 class="nav-link smoth-animation "
+                                onClick={(e)=>{setOPen("popup-mobile-menu")}}
                               >
                                 Home
                               </button>
@@ -299,6 +300,7 @@ function App() {
                               <button
                                 style={{ color: "#fd4520" }}
                                 class="nav-link smoth-animation"
+                                onClick={(e)=>{setOPen("popup-mobile-menu")}}
                               >
                                 Parcours
                               </button>
@@ -309,6 +311,7 @@ function App() {
                               <button
                                 style={{ color: "#fd4520" }}
                                 class="nav-link smoth-animation"
+                                onClick={(e)=>{setOPen("popup-mobile-menu")}}
                               >
                                 Projets
                               </button>
@@ -319,6 +322,7 @@ function App() {
                               <button
                                 style={{ color: "#fd4520" }}
                                 class="nav-link smoth-animation"
+                                onClick={(e)=>{setOPen("popup-mobile-menu")}}
                               >
                                 Skills
                               </button>
@@ -329,6 +333,7 @@ function App() {
                               <button
                                 style={{ color: "#fd4520" }}
                                 class="nav-link smoth-animation"
+                                onClick={(e)=>{setOPen("popup-mobile-menu")}}
                               >
                                 Mon CV
                               </button>
