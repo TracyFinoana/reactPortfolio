@@ -55,8 +55,8 @@ exit={{opacity:0}}
                         </span>
                       </h1>
 
-                      <div>
-                        <p>
+                      <div style={{marginBottom:'100px'}}>
+                        <p> 
                     Un grand gamin rigoleur, mais qui prend toujours ses responsabilités au sérieux,
                     aime l'aventure et explorer de nouvelles choses, avec une soif d'évolution. </p>
                       </div>
@@ -64,7 +64,7 @@ exit={{opacity:0}}
                     <div class="row">
                       <div class="">
                         <div class="social-share-inner-left">
-                          <p class="title titreBe">RESEAUX:</p>
+                          <p class="title titreBe"></p>
                           {/* <ul class="social-share d-flex liststyle ">
                             <li class="facebook"><a href="https://www.facebook.com/najoroarivelo.nambinintsoafinoana" target="blank"><i class="eos-icons:arrow-rotate"></i></a>
                             </li>
