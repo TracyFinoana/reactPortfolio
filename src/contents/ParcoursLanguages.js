@@ -7,8 +7,8 @@ function ParcoursLanguages() {
             animate={{ opacity: 1 }}
             exit={{ opacity: 0 }}
         >
-            <div className='condiv'>
-                <p style={{ fontSize: '60px', fontWeight: 'bolder' }} className='titreframework titreBe'>Languages</p>
+            <div className='condiv' style={{top:'50px'}}>
+                <h2 className='titreBe' style={{textAlign:'center'}}>Languages</h2>
                 <div class="featured-article-container wrapper">
                     {/* <div class="featured-article appear">
                     <svg xmlns="http://www.w3.org/2000/svg" width="144" height="144" viewBox="0 0 48 48">

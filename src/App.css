@@ -52,7 +52,6 @@ nav {
   background: #dde1e7;
   /* box-shadow: -3px -3px 7px #ffffff73, 3px 3px 5px rgba(18, 18, 19, 0.288); */
 }
-
 .home {
   display: flex;
   justify-content: center;
@@ -401,7 +400,7 @@ mark {
 /*Début Competences*/
 /*Langages*/
 .appear {
-  margin-bottom: 1%;
+  margin: 1%;
 }
 
 .appear path {

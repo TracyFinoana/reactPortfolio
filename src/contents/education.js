@@ -7,7 +7,7 @@ initial={{opacity:0}}
 animate={{opacity:1}}
 exit={{opacity:0}}
 >
-        <div className='condiv'>
+        <div className='condiv'style={{top:'50px'}}>
             <div data-aos="fade-up" data-aos-duration="500" data-aos-delay="300" data-aos-once="true" class="rn-nav-content tab-content" id="myTabContents">
                 <div class=" show  fade single-tab-area" id="education" role="tabpanel" aria-labelledby="education-tab">
                     <div class="personal-experience-inner mt--40">

@@ -266,20 +266,14 @@ function App() {
                         />
                       </div>
                     </div>
-                    <p
-                      class="discription"
-                      style={{ textDecoration: "underline #fd4520" }}
-                    >
-                      Menu.
-                    </p>
                   </div>
                   <div class="content">
                     <Switch>
-                      <ul class="primary-menu nav nav-pills">
+                      <ul class="primary-menu nav nav-pills" style={{top:'10px'}}>
                         <Link to="/" >
                           <li class="nav-item">
                             <button
-                              style={{ color: "#fd4520" }}
+                              style={{ color: "#fd4520" ,borderColor:'transparent' }}
                               class="nav-link smoth-animation "
                               onClick={(e) => { setOPen("popup-mobile-menu") }}
                             >
@@ -290,7 +284,7 @@ function App() {
                         <Link to="/parcours">
                           <li class="nav-item">
                             <button
-                              style={{ color: "#fd4520" }}
+                              style={{ color: "#fd4520", borderColor:'transparent' }}
                               class="nav-link smoth-animation"
                               onClick={(e) => { setOPen("popup-mobile-menu") }}
                             >
@@ -301,7 +295,7 @@ function App() {
                         <Link to="/Projet">
                           <li class="nav-item">
                             <button
-                              style={{ color: "#fd4520" }}
+                              style={{ color: "#fd4520" , borderColor:'transparent'}}
                               class="nav-link smoth-animation"
                               onClick={(e) => { setOPen("popup-mobile-menu") }}
                             >
@@ -312,7 +306,7 @@ function App() {
                         <Link to="/skills">
                           <li class="nav-item">
                             <button
-                              style={{ color: "#fd4520" }}
+                              style={{ color: "#fd4520" , borderColor:'transparent'}}
                               class="nav-link smoth-animation"
                               onClick={(e) => { setOPen("popup-mobile-menu") }}
                             >
@@ -323,7 +317,7 @@ function App() {
                         <Link to="/cv">
                           <li class="nav-item">
                             <button
-                              style={{ color: "#fd4520" }}
+                              style={{ color: "#fd4520" , borderColor:'transparent'}}
                               class="nav-link smoth-animation"
                               onClick={(e) => { setOPen("popup-mobile-menu") }}
                             >
@@ -335,7 +329,7 @@ function App() {
 
                         <li class="nav-item">
                           <button
-                            style={{ color: "#fd4520" }}
+                            style={{ color: "#fd4520" , borderColor:'transparent', marginBottom:'10px'}}
                             class="nav-link smoth-animation back1"
                             onClick={(e) =>
                               setTheme(
@@ -357,9 +351,9 @@ function App() {
                       </ul>
                     </Switch>
 
-                    <div class="social-share-style-1 mt--40">
-                      <span class="title">Trouvez-moi ici:</span>
-                      <ul class="social-share d-flex liststyle">
+                    <div class="social-share-style-1 mt--40" style={{alignSelf:'center'}}>
+                      <span class="title" >Trouvez-moi ici:</span>
+                      <ul class="social-share d-flex liststyle" >
                         <li class="facebook">
                           <a
                             target="blank"
