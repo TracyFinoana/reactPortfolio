@@ -29,26 +29,28 @@ nav {
   position: absolute;
   top: 3%;
   height: 7.5%;
+  z-index: 100;
   left: 1%;
   background: #dde1e7;
   border-radius: 30px;
   padding: 0;
   text-align: center;
-  box-shadow: -3px -3px 7px #ffffff73, 3px 3px 5px rgba(18, 18, 19, 0.288);
+  /* box-shadow: -3px -3px 7px #ffffff73, 3px 3px 5px rgba(18, 18, 19, 0.288); */
 }
 
 .condiv {
   width: 90%;
   height: auto;
   position: absolute;
-  top: 15%;
+  /* top: 15%; */
+  /* z-index: -100; */
   left: 4%;
   border-radius: 30px;
   line-height: 1;
   padding-left: 10px;
   padding-right: 10px;
   background: #dde1e7;
-  box-shadow: -3px -3px 7px #ffffff73, 3px 3px 5px rgba(18, 18, 19, 0.288);
+  /* box-shadow: -3px -3px 7px #ffffff73, 3px 3px 5px rgba(18, 18, 19, 0.288); */
 }
 
 .home {

@@ -55,19 +55,11 @@ const GlobalStyle = createGlobalStyle`
     background-color: ${(props) =>
     props.theme.mode === "dark" ? "#212428" : "#dde1e7"};
     color: ${(props) => (props.theme.mode === "dark" ? "#fff" : "#000")};
-  box-shadow: ${(props) =>
-    props.theme.mode === "dark"
-      ? "10px 10px 19px #1c1e22,  -10px -10px 19px #262a2e;"
-      : "-3px -3px 7px #ffffff73, 3px 3px 5px rgba(18, 18, 19, 0.288)"};
   }
   nav{
     background-color: ${(props) =>
     props.theme.mode === "dark" ? "#212428" : "#dde1e7"};
-    color: ${(props) => (props.theme.mode === "dark" ? "#fff" : "#000")};
-  box-shadow: ${(props) =>
-    props.theme.mode === "dark"
-      ? "10px 10px 19px #1c1e22,  -10px -10px 19px #262a2e;"
-      : "-3px -3px 7px #ffffff73, 3px 3px 5px rgba(18, 18, 19, 0.288)"};
+    color: ${(props) => (props.theme.mode === "dark" ? "#fff" : "#000")}
   }
   nav ul li{
   box-shadow: ${(props) =>
@@ -217,11 +209,11 @@ function App() {
               <Route path="/cv">
                 <CV />
               </Route>
-              <div className="Hamburger">
+              <div className="Hamburger" >
                 <Hamburger
                   size={30}
                   color="#fd4520"
-                  rounded
+                  rounded                
                   toggled={toggle1}
                   toggle={setToggle2}
                   onToggle={(toggled) => {
