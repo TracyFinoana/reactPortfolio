@@ -17,6 +17,7 @@
     "history": "^5.3.0",
     "iconify": "^1.4.0",
     "local-storage-fallback": "^4.1.1",
+    "openssl": "^2.0.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-preloaders": "^3.0.3",
@@ -26,11 +27,12 @@
     "react-spinners": "^0.12.0",
     "react-typing-effect": "^2.0.2",
     "reactjs-popup": "^2.0.5",
+    "sockjs": "^0.3.24",
     "styled-components": "^5.2.0",
     "styled-theming": "^2.2.0"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "react-scripts --openssl-legacy-provider start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"

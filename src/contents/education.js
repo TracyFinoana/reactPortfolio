@@ -14,7 +14,7 @@ exit={{opacity:0}}
 
                         <div style={{ textAlign: 'center' }}>
                             <h3  class="titreBe maintitle" >Mon Parcours Professionnelle</h3>
-                            <span class="subtitle" style={{ fontSize: '17px' }}>2014 - 2022</span>
+                            <span class="subtitle" style={{ fontSize: '17px' }}>2014 - 2023</span>
                         </div>
 
                         <div class="row">
@@ -103,7 +103,7 @@ exit={{opacity:0}}
                                                         <span>Ankorondrano</span>
                                                     </div>
                                                 </div>
-                                                <p class="description">Manger d'une équipe de 12 personnes, j'ai été en charges de monté en compétence 
+                                                <p class="description">Manager d'une équipe de 12 personnes, j'ai été en charges de monté en compétence 
                                                 l'équipe toute entiére, augmenter le résultat de l'équipe afin que les résulats soit atteintent.</p>
                                             </div>
                                         </div>
@@ -121,6 +121,21 @@ exit={{opacity:0}}
                                                 <p class="description"> Ma passion pour la technique et l'informatique, m'a amené à chercher un établissement
                                                 qui me permet de combler mon envie d'être de. J'ai alors trouvé  <a href='https://www.inclusiv.mg/'> Inclusiv Academy</a> ,et j'ai suivi le cursus INTENSIF de 6 mois 
                                                 en Genie Logiciel,équivalant à 5 années d'études .</p>
+                                            </div>
+                                        </div>
+                                        <div class="resume-single-list">
+                                            <div class="inner">
+                                                <div class="heading">
+                                                    <div class="title">
+                                                        <h6  class="titreBe">Develloppeur Front-End</h6>
+                                                        <span>Stephaina Beauty(2022-2023)</span>
+                                                    </div>
+                                                    <div class="date-of-time">
+                                                        <span>Ivandry</span>
+                                                    </div>
+                                                </div>
+                                                <p class="description">Aprés ma sortie de promotion et ma soutenance, Stephaina Beauty m'a recruté comme Develloppeur Front-End
+                                                pour créer nottement une application mobile  de prise de rendez-vous pour client.</p>
                                             </div>
                                         </div>
                                     </div>
