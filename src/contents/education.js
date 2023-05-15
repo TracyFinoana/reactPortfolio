@@ -7,7 +7,7 @@ initial={{opacity:0}}
 animate={{opacity:1}}
 exit={{opacity:0}}
 >
-        <div className='condiv'style={{top:'50px'}}>
+        <div className='condiv'>
             <div data-aos="fade-up" data-aos-duration="500" data-aos-delay="300" data-aos-once="true" class="rn-nav-content tab-content" id="myTabContents">
                 <div class=" show  fade single-tab-area" id="education" role="tabpanel" aria-labelledby="education-tab">
                     <div class="personal-experience-inner mt--40">
@@ -65,7 +65,7 @@ exit={{opacity:0}}
                                                         <span>Andranomena</span>
                                                     </div>
                                                 </div>
-                                                <p class="description">Après avoir fait mes preuvent, et atteint les objectifs qu'on m'a fixé. On m'a donné une tache 
+                                                <p class="description">Après avoir fait mes preuves, et atteint les objectifs qu'on m'a fixé. On m'a donné une tache 
                                                 À responsabilité, celle d'expert métier, j'étais en charge d'assister les agents avec les cas et les problèmes difficiles; 
                                                 aussi de gérer les remontés faites par ces derniers</p>
                                             </div>
@@ -88,7 +88,7 @@ exit={{opacity:0}}
                                                     </div>
                                                 </div>
                                                 <p class="description">Toujours dans la partie Tech, entant qu'expert métier j'ai été ce qu'on appelle
-                                                aide volant qui se charge de gérer les cas difficiles. Mais aussi,de donner des ateliers pour les agents 
+                                                aide volant qui se charge de gérer les cas difficiles. Mais aussi, de donner des ateliers pour les agents 
                                                 et managers.</p>
                                             </div>
                                         </div>
@@ -103,8 +103,8 @@ exit={{opacity:0}}
                                                         <span>Ankorondrano</span>
                                                     </div>
                                                 </div>
-                                                <p class="description">Manager d'une équipe de 12 personnes, j'ai été en charges de monté en compétence 
-                                                l'équipe toute entiére, augmenter le résultat de l'équipe afin que les résulats soit atteintent.</p>
+                                                <p class="description">Manager d'une équipe de 12 personnes, j'ai été en charge de montée en compétence  l'équipe tout entière,
+                                                 augmenter le résultat de l'équipe afin que les résultats soient atteints.</p>
                                             </div>
                                         </div>
                                         <div class="resume-single-list">
@@ -119,8 +119,7 @@ exit={{opacity:0}}
                                                     </div>
                                                 </div>
                                                 <p class="description"> Ma passion pour la technique et l'informatique, m'a amené à chercher un établissement
-                                                qui me permet de combler mon envie d'être de. J'ai alors trouvé  <a href='https://www.inclusiv.mg/'> Inclusiv Academy</a> ,et j'ai suivi le cursus INTENSIF de 6 mois 
-                                                en Genie Logiciel,équivalant à 5 années d'études .</p>
+                                                qui me permet de combler mon envie d'être de. J'ai alors trouvé <a href='https://www.inclusiv.mg/'> Inclusiv Academy</a>, et j'ai suivi le cursus INTENSIF de 6 mois  en Genie logiciel, équivalant à 5 années d'études</p>
                                             </div>
                                         </div>
                                         <div class="resume-single-list">
@@ -134,8 +133,8 @@ exit={{opacity:0}}
                                                         <span>Ivandry</span>
                                                     </div>
                                                 </div>
-                                                <p class="description">Aprés ma sortie de promotion et ma soutenance, Stephaina Beauty m'a recruté comme Develloppeur Front-End
-                                                pour créer nottement une application mobile  de prise de rendez-vous pour client.</p>
+                                                <p class="description">Après ma sortie de promotion et ma soutenance,
+                                                 Stephaina Beauty m'a recruté comme Développeur Front-End pour créer notamment une application mobile  de prise de rendez-vous pour client.</p>
                                             </div>
                                         </div>
                                     </div>

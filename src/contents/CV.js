@@ -1,5 +1,5 @@
 import React, {useState} from 'react'
-import Curriculum from "../Docs/CV Finoana.pdf";
+import Curriculum from "../Docs/CVFinoana.pdf";
 import {motion} from 'framer-motion'
 function CV() {
     const [add,setAdd]=useState('btnCv')

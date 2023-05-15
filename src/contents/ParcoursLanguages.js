@@ -7,7 +7,7 @@ function ParcoursLanguages() {
             animate={{ opacity: 1 }}
             exit={{ opacity: 0 }}
         >
-            <div className='condiv' style={{top:'50px'}}>
+            <div className='condiv' >
                 <h2 className='titreBe' style={{textAlign:'center'}}>Languages</h2>
                 <div class="featured-article-container wrapper">
                     {/* <div class="featured-article appear">

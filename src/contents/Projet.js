@@ -62,7 +62,7 @@ export default function Parcours() {
 													<span><i class="feather-clock"></i>Annuaire</span>
 												</div>
 											</div>
-											<h4 class="title"><a target="blank" href="https://github.com/ChrysR12/Annuaire_Electronique.git">Un Annuaire eletronique , pour notre premier projet chez Inclusiv academy<i
+											<h4 class="title"><a target="blank" href="https://github.com/ChrysR12/Annuaire_Electronique.git">Un annuaire électronique, pour notre premier projet chez Inclusi Academy<i
 												class="feather-arrow-up-right"></i></a></h4>
 										</div>
 									</div>
@@ -85,7 +85,7 @@ export default function Parcours() {
 													<span><i class="feather-clock"></i>Medic'aina</span>
 												</div>
 											</div>
-											<h4 class="title"><a target="blank" href="https://github.com/IalyN/medicainaIIIRepo.git">La meme Application de prise de rende-vous médical, version ReacJs<i class="feather-arrow-up-right"></i></a></h4>
+											<h4 class="title"><a target="blank" href="https://github.com/IalyN/medicainaIIIRepo.git">La même application de prise de rendez-vous médical, version ReacJs<i class="feather-arrow-up-right"></i></a></h4>
 										</div>
 									</div>
 								</div>
@@ -129,7 +129,7 @@ export default function Parcours() {
 													<span><i class="feather-clock"></i>Prise de RDV by Stephaina Beauty</span>
 												</div>
 											</div>
-											<h4 class="title"><a> Développé en React Native pour la prise de rendez-vous des client (Projet en suspension)<i class="feather-arrow-up-right"></i></a></h4>
+											<h4 class="title"><a> Développé en React Native pour la prise de rendez-vous des clients (Projet en suspension)<i class="feather-arrow-up-right"></i></a></h4>
 										</div>
 									</div>
 								</div>
@@ -151,7 +151,7 @@ export default function Parcours() {
 													<span><i class="feather-clock"></i>Planning et Admin Stephaina Beauty</span>
 												</div>
 											</div>
-											<h4 class="title"><a>Le Platforme ou les rendez-vous vont etre visible et pour les agent dans le salon voient leur planning(Projet en suspension)<i class="feather-arrow-up-right"></i></a></h4>
+											<h4 class="title"><a>La Plate-forme où les rendez-vous vont être visible et que pour les agents dans les salons voient leur planning(Projet en suspension)<i class="feather-arrow-up-right"></i></a></h4>
 										</div>
 									</div>
 								</div>
@@ -173,7 +173,7 @@ export default function Parcours() {
 													<span><i class="feather-clock"></i>Carte by Stephaina Beauty</span>
 												</div>
 											</div>
-											<h4 class="title"><a>Elle permet au client de faire leur payement avec une carte qu'on leur a donné. Carte rechargeable (application en prod, seulement dans les salons de stephaina beauty)<i class="feather-arrow-up-right"></i></a></h4>
+											<h4 class="title"><a>Elle permet au client de faire leur payement avec une carte qu'on leur a donnée. Carte rechargeable (application en prod, seulement dans les salons de stephaina beauty)<i class="feather-arrow-up-right"></i></a></h4>
 										</div>
 									</div>
 								</div>
